@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptotp14
 - 👀 I’m interested in app and web development
-- 🌱 I’m currently learning python, html, css, flutter
+- 🌱 I’m currently learning python, html, css, react.js
 - 💞️ I’m looking to collaborate on nothing just yet
 - 📫 How to reach me at cryptotp14@gmail.com
 
